@@ -1,0 +1,13 @@
+QWidget:window {border: 0px solid transparent;background-color: #000000;}
+QLabel {background: transparent;color: #FFFFFF;}
+QPushButton {background-color: #000000; color: #FFFFFF; border: 1px solid #FFFFFF;}
+QPushButton:disabled {background-color: #000000; color: #FF0000; border: 1px solid #FF0000;}
+QPushButton:hover {background-color: #FFFFFF; color: #000000; border: 1px solid #FFFFFF;}
+QScrollArea {background-color: #000000; border: none;}
+QScrollBar:horizontal {background-color: #FFFFFF;}
+QScrollBar::handle:horizontal {background-color: #060606;}
+QScrollBar:vertical {background-color: #FFFFFF;}
+QScrollBar::handle:vertical {background-color: #060606;}
+QPlainTextEdit {background: transparent; color: #FFFFFF; border: none;}
+QLineEdit {background: #000000; border: 1px solid #FFFFFF; color: #FFFFFF;}
+QGroupBox {border:none;}
